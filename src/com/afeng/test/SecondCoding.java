@@ -31,4 +31,14 @@ public class SecondCoding
     }
 */
 
+    public static void main(String[] args)
+    {
+        /**
+         * 左移<< *2的n次方
+         * 右移>>/2的n次方
+         */
+        System.out.println(1024 >> 10);
+    }
+
+
 }
