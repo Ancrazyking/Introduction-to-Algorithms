@@ -38,6 +38,7 @@ public class SecondCoding
          * 右移>>/2的n次方
          */
         System.out.println(1024 >> 10);
+        System.out.println(Math.random());
     }
 
 
